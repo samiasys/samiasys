@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Samia Farjana</h1>
-<h3 align="center">A passionate web designer & developer</h3>
+<h3 align="center">A passionate web designer, developer & UI/UX Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samiasys&label=Profile%20views&color=0e75b6&style=flat" alt="samiasys" /> </p>
 
