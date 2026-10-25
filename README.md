@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samiasys" alt="samiasys" /></a> </p>
 
--  I’m currently working as a **Freelancing**
+-  I’m currently working as a **Freelancer**
 
 -  I’m currently learning **PHP, JS**
 
