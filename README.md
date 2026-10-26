@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/cXD4qQqg/web-designer-and-developer-Copy.png" alt="web designer and developer" border="0">
+<h1>hello</h1>
 
 <h3 align="center">A passionate web designer, developer & UI/UX Designer</h3>
 
