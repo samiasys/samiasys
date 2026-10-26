@@ -1,6 +1,6 @@
 <img src="https://i.ibb.co.com/hJzCxRkh/Samia-Farjana-Design-Meets-Code.png" alt="Samia Farjana Design Meets Code" border="0">
 
-<h3 align="center">A passionate web designer, developer & UI/UX Designer</h3>
+<h3 align="center">A Passionate Web Designer, Developer & UI/UX Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samiasys&label=Profile%20views&color=0e75b6&style=flat" alt="samiasys" /> </p>
 
