@@ -6,7 +6,7 @@
 
 
 
--  I’m currently working as a **Freelancer**
+-  I’m currently working on **Freelancer**
 
 -  I’m currently learning **PHP, JS**
 
