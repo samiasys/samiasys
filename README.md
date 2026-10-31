@@ -12,7 +12,7 @@
 
 -  I’m looking for help with **Web Designing & Developing**
 
--  All of my projects are available at [https://www.linkedin.com/in/samia-farjana-785b7a446/](https://www.linkedin.com/in/samia-farjana-785b7a446/)
+-  All of my projects are available at [.](1)
 
 -  Ask me about **Web Designing & Development**
 
