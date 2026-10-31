@@ -1,6 +1,6 @@
 <img src="https://i.ibb.co.com/fwzL9Tk/Samia-Farjana-Web-Developer-Portfolio.png" alt="Samia Farjana Web Developer Portfolio" border="0">
 
-<h3 align="left">A Professional Web Designer & Web Developer</h3>
+<h2 align="left">A Professional Web Designer & Web Developer</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samiasys&label=Profile%20views&color=0e75b6&style=flat" alt="samiasys"> </p>
 
