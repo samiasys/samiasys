@@ -12,7 +12,7 @@
 
 -  I’m looking for help with **Web Designing & Developing**
 
--  All of my projects are available at [.](1)
+-  All of my projects are available at [LinkedIn](https://www.linkedin.com/in/samiasys/)
 
 -  Ask me about **Web Designing & Development**
 
