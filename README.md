@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/hJzCxRkh/Samia-Farjana-Design-Meets-Code.png" alt="Samia Farjana Design Meets Code" border="5">
+<img src="https://i.ibb.co.com/hJzCxRkh/Samia-Farjana-Design-Meets-Code.png" alt="Samia Farjana Design Meets Code" border="0">
 
 <h3 align="left">A Passionate Web Designer, Developer & UI/UX Designer</h3>
 
